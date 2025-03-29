@@ -96,3 +96,11 @@ Watches NSE options and stocks/indices every 5 seconds.
 Predicts moves, explains why, and suggests trades.
 Uses pro strategies (MACD, RSI) to act like a trading god.
 Grows smarter daily and shows you the market’s secrets (FII/DII, levels).
+
+
+
+
+
+
+[NSE API KEY DOCS](https://hi-imcodeman.github.io/stock-nse-india/)
+
